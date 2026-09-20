@@ -426,3 +426,11 @@ html, body {
     .btn-tool, .btn-social { min-height: 40px; padding: 8px 14px; font-size: 15px; }
     .footer-bar { padding: 8px 15px; font-size: 15px; }
 }
+
+
+.card-exclusive { border-color:#00e5ff; box-shadow:0 0 14px rgba(0,229,255,.35); }
+.card-exclusive:hover { border-color:#ffbe0b; box-shadow:0 0 28px rgba(255,190,11,.8); }
+
+
+/* Center Abram Smart Host card */
+.featured-grid .card-fire { grid-column: 1 / -1; width: 50%; justify-self: center; }
